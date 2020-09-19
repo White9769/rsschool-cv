@@ -16,3 +16,17 @@ I learned everything myself from online books and online courses. I know what ad
 
 ### Code examples
 *Will be added soon*
+
+### Education
+[**The Rolling Scopes School**](https://school.rollingscopes.com/) Front-end developer, Minsk, 2020.
+
+[**Belarusian State University of Informatics and Radioelectronics**](https://www.bsuir.by/en/) Faculty of Computer Design, Minsk, 2017 - to the present.
+
+**Secondary education** Belarus, Vawkavysk, 2006-2017.
+
+**Self Study**
+* JS: [Modern Javascript Tutorial](http://learn.javascript.ru/)
+* HTML&CSS: [HTML Academy](http://htmlacademy.ru), [Code Basics](https://ru.code-basics.com/)
+
+### English level
+**A2 Pre-Intermediate** - School and university English course.
