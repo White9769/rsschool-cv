@@ -30,3 +30,6 @@ I learned everything myself from online books and online courses. I know what ad
 
 ### English level
 **A2 Pre-Intermediate** - School and university English course.
+
+### Summary
+I am constantly striving to learn *new technologies and look to ways* to better myself in this rapidly changing industry. I would like to find an internship to gain the necessary skills and experience in web development with further employment.
