@@ -11,3 +11,8 @@
 * MySQL | Basics
 * Git | Basics
 
+### Experience
+I learned everything myself from online books and online courses. I know what adaptive cross-browser layout, SASS/SCSS preprocessor, WebPack, etc.
+
+### Code examples
+*Will be added soon*
